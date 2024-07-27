@@ -1,4 +1,4 @@
-# bobby
+# bobby (greatest dog)
 the book store
 was gonna make a whsmith but then realised i had to make a website, i didnt want to learn react, i dont like web dev
 i called it Kinesthesia, after a project by my good friend
