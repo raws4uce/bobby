@@ -22,7 +22,7 @@ so i feel a little better with rust, made this, so you type in an expression, an
 
 used regex, still the same as java. nothing special. learned shunting yard algorithm. reverse Polish notation 
 
-#Minigrep
+# Minigrep
 
 was gonna make this (btw the way ive been learning rust was the book, and chat gpt prompts so like, make a little project idea of something)
 
