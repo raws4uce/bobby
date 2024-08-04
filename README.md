@@ -30,11 +30,11 @@ basically my ego is getting the better of me and i gave up after briefly smellin
 
 *the plan*
 
-#AVL tree
+# AVL tree
 
-#AVL to ASCII
+# AVL to ASCII
 
-#*burn bridge when we get to it*
+# *burn bridge when we get to it*
 
 
 
