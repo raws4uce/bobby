@@ -22,13 +22,17 @@ so i feel a little better with rust, made this, so you type in an expression, an
 
 used regex, still the same as java. nothing special. learned shunting yard algorithm. reverse Polish notation 
 
-# Minigrep
+# Minigrep (not going to add because its pointless)
 
 was gonna make this (btw the way ive been learning rust was the book, and chat gpt prompts so like, make a little project idea of something)
 
 basically my ego is getting the better of me and i gave up after briefly smelling the chapter
 
 *the plan*
+# BST
+
+its a bst, honestly chatgpt is wicked at making test cases, i was struggling on delete fn 
+
 
 # AVL tree
 
