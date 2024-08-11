@@ -34,9 +34,13 @@ basically my ego is getting the better of me and i gave up after briefly smellin
 its a bst, honestly chatgpt is wicked at making test cases, i was struggling on delete fn 
 
 
-# AVL tree
+# tree
 
-# AVL to ASCII
+avl tree, rotation was a real challange, cheatsheet is the plug, fyi i did this all in java a while ago, it was a matter of synthax rather than knowing stuff. battles with the borrow checker
+
+# dutton
+
+this is where we get spicy, but wait
 
 # *burn bridge when we get to it*
 
