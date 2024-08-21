@@ -38,9 +38,9 @@ its a bst, honestly chatgpt is wicked at making test cases, i was struggling on 
 
 avl tree, rotation was a real challange, cheatsheet is the plug, fyi i did this all in java a while ago, it was a matter of synthax rather than knowing stuff. battles with the borrow checker
 
-# dutton
+# wait
 
-this is where we get spicy, but wait
+im gonna make a dbms, so im gonna learn how to do that
 
 # *burn bridge when we get to it*
 
