@@ -40,7 +40,7 @@ avl tree, rotation was a real challange, cheatsheet is the plug, fyi i did this 
 
 im gonna make a dbms, so im gonna learn how to do that
 
-# kvs
+# kvs (KeyValueStore, as simple as databases go)
 
 project2 in talent plan. im a little proud, skipped comp because i want to move on
 
