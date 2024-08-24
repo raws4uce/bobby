@@ -42,7 +42,7 @@ im gonna make a dbms, so im gonna learn how to do that
 
 # kvs (KeyValueStore, as simple as databases go)
 
-project2 in talent plan. im a little proud, skipped comp because i want to move on
+project2 in talent plan. im a little proud, skipped comp because i want to move on TODO compilation, using anyhow{Result}
 
 # *burn bridge when we get to it*
 
