@@ -1,0 +1,28 @@
+[package]
+name = "dark"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.16", features = ["derive", "cargo"] }
+slog = { version = "2.7.0", features = ["max_level_trace", "release_max_level_warn"] }
+slog-term = "2.9.1"
+anyhow = "1.0.86"
+serde = { version = "1.0.209", features = ["derive"] }
+serde_json = "1.0.127"
+reqwest = { version = "0.12.7", features = ["blocking", "json"] }
+tokio = { version = "1.31.0", features = ["full"] }
+log = "0.4.17"
+slog-scope = "4.4.0"
+slog-stdlog = "4.1.1"
+slog-async = "2.8.0"
+regex = "1.10.6"
+
+
+[dev-dependencies]
+assert_cmd = "0.11"
+criterion = "0.3"
+predicates = "1.0.0"
+rand = "0.6.5"
+tempfile = "3.0.7"
+walkdir = "2.2.7"
