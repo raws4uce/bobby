@@ -44,7 +44,7 @@ im gonna make a dbms, so im gonna learn how to do that
 
 project2 in talent plan. im a little proud, skipped comp because i want to move on TODO compilation, using anyhow{Result}
 
-#dark (kvs but client/server)
+# dark (kvs but client/server)
 
 synchronous single threadded server, regardless pretty fun. doesnt work perfectly but i want to move on
 
