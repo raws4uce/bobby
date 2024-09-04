@@ -48,6 +48,10 @@ project2 in talent plan. im a little proud, skipped comp because i want to move 
 
 synchronous single threadded server, regardless pretty fun. doesnt work perfectly but i want to move on
 
+# dark (the more recent one, multithreaded with threadpool!!)
+
+straight from the last chapter in the book, but applied to this. pretty cool
+
 # *burn bridge when we get to it*
 
 
