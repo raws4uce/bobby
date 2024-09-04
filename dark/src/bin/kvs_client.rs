@@ -25,11 +25,9 @@ fn main() {
         )
         .arg(Arg::new("addr").default_value("127.0.0.1:4000"))
         .get_matches();
-    
-    
+
     let addr: &String = args.get_one("addr").unwrap();
     let client: KvsClient = KvsClient::connect(addr).unwrap();
-
 
     match args.subcommand() {
         Some(("set", sub_m)) => {
@@ -42,7 +40,6 @@ fn main() {
         Some(("get", sub_m)) => {
             let key: &String = sub_m.get_one("KEY").unwrap();
             println!("this is the args, {:?}, {:?}", key, addr);
-
 
             println!("Your beloved value {:?}", client.get(key));
         }

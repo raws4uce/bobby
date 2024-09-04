@@ -2,8 +2,6 @@ use dark::server::{Engine, KvsServer};
 
 use clap::{command, Arg, ArgMatches};
 
-
-
 fn main() {
     //args stuff
     let args: ArgMatches = command!()
@@ -22,7 +20,6 @@ fn main() {
             panic!("ONLY OPTIONS, SLED AND KVS")
         }
     };
-
 
     // info!(_log, "SKEPTA AN AN PLASTICIAN");
     // warn!(_log, "ARE YOU shtupid");

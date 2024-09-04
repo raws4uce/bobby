@@ -4,7 +4,7 @@ use std::fs::OpenOptions;
 use std::io::{BufRead, BufReader, Seek, Write};
 // use std::{collections::HashMap, process::Command};
 use anyhow::Context;
-use serde::{Serialize, Deserialize};
+use serde::{Deserialize, Serialize};
 use serde_json::Value;
 use std::io::SeekFrom;
 
@@ -108,6 +108,7 @@ impl KvStore {
         let mut offset = 0;
         for json in log.lines() {
             //need to get key from current json/line
+            // println!("{:?}",json);
             let v: Value =
                 serde_json::from_str(json).expect("fail to parse json, pronounced /ˈdʒeɪsən/ ");
             if let Some((cmd_type, cmd_args)) = v.as_object().and_then(|f| f.iter().next()) {

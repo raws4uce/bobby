@@ -1,8 +1,4 @@
-
-use anyhow::{
-    Result,
-    anyhow
-};
+use anyhow::{anyhow, Result};
 use reqwest::blocking::Client;
 use serde_json::json;
 use serde_json::Value;
@@ -87,11 +83,11 @@ impl KvsClient {
 
         if response.status().is_success() {
             let txt = response.text().expect("fail to stringify");
-            let json :Value = serde_json::from_str(&txt).expect("msg");
+            let json: Value = serde_json::from_str(&txt).expect("msg");
 
-            if let Some(val) = json.get("value"){
-                return Ok(val.as_str().unwrap().to_string());            
-            }else{
+            if let Some(val) = json.get("value") {
+                return Ok(val.as_str().unwrap().to_string());
+            } else {
                 return Err(anyhow!("error, key not found"));
             }
         } else {
