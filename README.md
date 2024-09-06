@@ -52,7 +52,7 @@ synchronous single threadded server, regardless pretty fun. doesnt work perfectl
 
 straight from the last chapter in the book, but applied to this. pretty cool
 
-im feeling a little lost, so im going to make a blueprint of what a dbms is, (idea being to add on from its most basic form)
+might start learning async rust
 
 # *burn bridge when we get to it*
 
