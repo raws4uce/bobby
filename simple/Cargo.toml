@@ -11,7 +11,8 @@ edition = "2021"
 #post completion thoughts :
 #AAAAAAAAAAAAAAAAAAAHHHHHHGGGGGGGGGGHHH?!?!?!? WHAT WAS THAATAAT!!
 #ahem, thank you
-#i see mad potential, refactoring the main dbms would mean that starting from scratch is optimal, purely because error handling, I feel that connections.rs needs to be looked at again, a few redundant functions in there. yh. I reckon i read a little more about distributed systems tho before we enter the dragon.
+#i see mad potential, refactoring the main dbms would mean that starting from scratch is optimal, purely because error handling, I feel that connections.rs needs to be looked at again, 
+#a few redundant functions in there. yh. I reckon i read a little more about distributed systems tho before we enter the dragon.
 #none of dem man cant test me 
 #a double negative cant test me 
 # Oh shit test cases 
