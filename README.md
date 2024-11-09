@@ -54,6 +54,8 @@ straight from the last chapter in the book, but applied to this. pretty cool
 
 might start learning async rust
 
+# oh dear, where do i begin
+simple, is a linked list, sorry, an ASYNCHRONOUS linked list, across a client server model, this was met with a lot of procrastination, hence the wait, but i mean here we are. check toml for little rundown
 # *burn bridge when we get to it*
 
 
