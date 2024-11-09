@@ -1,0 +1,25 @@
+[package]
+name = "simple"
+version = "0.1.0"
+edition = "2021"
+
+# going back to basics, simple data structure (search, insert, delete) and async funtionality, 
+# after this config slackware os, to make the cloud thing ig.. 
+# but i want to be proficient in async rust first, and that takes practice
+
+
+#post completion thoughts :
+#AAAAAAAAAAAAAAAAAAAHHHHHHGGGGGGGGGGHHH?!?!?!? WHAT WAS THAATAAT!!
+#ahem, thank you
+#i see mad potential, refactoring the main dbms would mean that starting from scratch is optimal, purely because error handling, I feel that connections.rs needs to be looked at again, a few redundant functions in there. yh. I reckon i read a little more about distributed systems tho before we enter the dragon.
+#none of dem man cant test me 
+#a double negative cant test me 
+# Oh shit test cases 
+
+[dependencies]
+anyhow = "1.0.91"
+bytes = "1.8.0"
+reqwest = {version = "0.12.8", features = ["json"]}
+serde = { version = "1.0.209", features = ["derive"] }
+serde_json = "1.0.132"
+tokio = { version = "1", features = ["full"] }
