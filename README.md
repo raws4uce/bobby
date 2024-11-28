@@ -56,6 +56,10 @@ might start learning async rust
 
 # oh dear, where do i begin
 simple, is a linked list, sorry, an ASYNCHRONOUS linked list, across a client server model, this was met with a lot of procrastination, hence the wait, but i mean here we are. check toml for little rundown
+
+# not_AOC
+its not AOC submissions, but on a separate note, im ready for AOC. No LLM's near me buddy. 
+
 # *burn bridge when we get to it*
 
 
