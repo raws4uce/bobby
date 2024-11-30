@@ -1,0 +1,10 @@
+[package]
+name = "test2"
+version = "0.1.0"
+edition = "2021"
+# 2023 day 1 aoc, somethin
+
+[dependencies]
+anyhow = "1.0.93"
+regex = "1.11.1"
+util_aoc = { path = "../util_aoc" }

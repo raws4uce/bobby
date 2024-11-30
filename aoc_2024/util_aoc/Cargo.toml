@@ -1,0 +1,10 @@
+[package]
+name = "util_aoc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.93"
+
+# [lib]
+# path = "src/lib.rs"

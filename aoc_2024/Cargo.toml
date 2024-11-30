@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "util_aoc",
+    "test1"
+, "test2"]
+resolver = "2"

@@ -1,0 +1,2 @@
+ook this is where we dump our test cases
+path : /home/raws4uce/aoc_2024/z_dump
