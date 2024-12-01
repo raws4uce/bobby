@@ -1,0 +1,7 @@
+[package]
+name = "headie_one"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+util_aoc = { path = "../util_aoc" }
